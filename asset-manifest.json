@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ligate-letter/static/css/main.5c64a27c.css",
-    "main.js": "/ligate-letter/static/js/main.ea91d68f.js",
+    "main.js": "/ligate-letter/static/js/main.87ea505f.js",
     "static/js/787.2cb8a113.chunk.js": "/ligate-letter/static/js/787.2cb8a113.chunk.js",
     "index.html": "/ligate-letter/index.html",
     "main.5c64a27c.css.map": "/ligate-letter/static/css/main.5c64a27c.css.map",
-    "main.ea91d68f.js.map": "/ligate-letter/static/js/main.ea91d68f.js.map",
+    "main.87ea505f.js.map": "/ligate-letter/static/js/main.87ea505f.js.map",
     "787.2cb8a113.chunk.js.map": "/ligate-letter/static/js/787.2cb8a113.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5c64a27c.css",
-    "static/js/main.ea91d68f.js"
+    "static/js/main.87ea505f.js"
   ]
 }
