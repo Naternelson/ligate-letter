@@ -48,7 +48,7 @@ function App() {
           <Box display="flex" flexDirection="column" width='50%'>
             <Box sx={{p:5, textAlign:'left'}}>
               <Typography variant="h2" sx={{color:'1D3B59'}}>Purpose</Typography>
-              <Typography variant="body1" sx={{color:'1D3B59'}}>To present the concept of the app, give a demonstration of its use, access the viability, and usefulness of its features, and receive feedback.</Typography>
+              <Typography variant="body1" sx={{color:'1D3B59'}}>To present the concept of the app, give a demonstration of its use, assess the viability, and usefulness of its features, and receive feedback.</Typography>
             </Box>
           </Box>
           <Box width={"300px"}>
