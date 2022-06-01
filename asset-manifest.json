@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Naternelson/ligate-letter/static/css/main.5c64a27c.css",
-    "main.js": "/Naternelson/ligate-letter/static/js/main.0d122592.js",
-    "static/js/787.2cb8a113.chunk.js": "/Naternelson/ligate-letter/static/js/787.2cb8a113.chunk.js",
-    "index.html": "/Naternelson/ligate-letter/index.html",
-    "main.5c64a27c.css.map": "/Naternelson/ligate-letter/static/css/main.5c64a27c.css.map",
-    "main.0d122592.js.map": "/Naternelson/ligate-letter/static/js/main.0d122592.js.map",
-    "787.2cb8a113.chunk.js.map": "/Naternelson/ligate-letter/static/js/787.2cb8a113.chunk.js.map"
+    "main.css": "/ligate-letter/static/css/main.5c64a27c.css",
+    "main.js": "/ligate-letter/static/js/main.ea91d68f.js",
+    "static/js/787.2cb8a113.chunk.js": "/ligate-letter/static/js/787.2cb8a113.chunk.js",
+    "index.html": "/ligate-letter/index.html",
+    "main.5c64a27c.css.map": "/ligate-letter/static/css/main.5c64a27c.css.map",
+    "main.ea91d68f.js.map": "/ligate-letter/static/js/main.ea91d68f.js.map",
+    "787.2cb8a113.chunk.js.map": "/ligate-letter/static/js/787.2cb8a113.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5c64a27c.css",
-    "static/js/main.0d122592.js"
+    "static/js/main.ea91d68f.js"
   ]
 }
