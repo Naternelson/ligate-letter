@@ -52,7 +52,7 @@ function App() {
             </Box>
           </Box>
           <Box width={"300px"}>
-            <Box component="img" src="https://lh3.googleusercontent.com/umGcLBTRDJJm73pPeDafnbL9uEdXSa5lueVoCzat-8GGQHNu8JRIlOD3egTSPuLkXdWs_ie2_o5xWzyqw2HMEAZ2MfxAYIEGFSyywSh4hEVJbu_CVUW8LqQhbXIcb83nu9_qZQGElA3dLz6ydzsIkdbFTBC_BFDf6XEZiqYfr77SXCkMzZGqwakibCVGpdiKrgwR7ikVecDI2C79LtGhhT2rfvuLORPvdffRudGt1BBMbZe390N5oEMdSUJansiCn4aT1_Gzpg2haTCq_Czwzl2opcp_K6sfqAiXAezwlyavxTQHuf0IOP5jYZ3p1ZfvVs1NbjizFtK2FcIrg3CEhch_bOl2X6cWoDUre-Mu5WNAvuL2js7YPQ99Y0-zwSzxKE3ZMWLtSLMm8uW9MHe3NMzmNXiSPi2j479gK79FtDuN7BSRczVnufvOb5s6gpQu-MdGFM_Ed7I4lU93hjkNkQl8Ly9iyFZgA_rN5bOERGJQSGlebrvUxqIefUKZBPPd0Y7WweaSziYXWbHM32p5hGAIIdg59RqrHABmAxqBF8NG9nfSscHfcYaItCjgQfQcZ0oJctDbmcVOrzKKjBs28oLS4piE-fIkJukh_7qcbUnvIGIoDZdlyIHMZG4m_AqLB9h0eobJ9_qZaAS1FtZlrSs-SNR5bFFdMklbqHynASe3H-6Y-MjHMVR-0XRnak8Q3AqiW-JG771PhLss0MR6r_c379iujg_I9v4abO1l9GLwbEGGngarO86NDRxCmQ=w660-h854-no?authuser=0" sx={{maxWidth: '100%', height: 'auto'}}/>
+            <Box component="img" src="https://photos.app.goo.gl/55ceDxtV6uQPjsUV6" sx={{maxWidth: '100%', height: 'auto'}}/>
           </Box>
         </Box>
         <Box position="relative" top={"-50px"} height="50px" sx={{bgcolor: '#FF9800', zIndex: 0}}></Box>
