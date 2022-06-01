@@ -23,7 +23,7 @@ function App() {
         <Box sx={{ml:3, mt:3, width: '66%', textAlign: 'left'}}>
           <Typography align="left" variant={"body1"} sx={{color: 'grey.800'}}>We are excited to present to you a new web-tool to share valuable member information across different stakes.</Typography>
           <Box component={"ul"} sx={{color: 'grey.800'}}>
-            <Box component={"li"}>Track member staus in other stakes</Box>
+            <Box component={"li"}>Track member status in other stakes</Box>
             <Box component={"li"}>Easily communicate with other stake leaders</Box>
             <Box component={"li"}>Printable reports</Box>
             <Box component={"li"}>Anytime anywhere secure access</Box>
