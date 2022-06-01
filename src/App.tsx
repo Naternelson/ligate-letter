@@ -31,7 +31,8 @@ function App() {
         </Box>
         <Box sx={{display: 'flex', flexDirection: 'row0', px: 2, position: 'relative', zIndex: 1}}>
           <Box width="300px">
-            <Box component={"img"} src="/Laptop-screenshot.png" sx={{maxWidth: '100%', height: 'auto', zIndex: 100}}/>
+            
+            <Box component={"img"} src="https://lh3.googleusercontent.com/P8JWGowlCXDupvfmHkLFRC-qluaUIbzT11OHKyuzM0nlWrpXBQFXqzWez7HdQ_IV7KjfiQ5PcvJF9cvZHSTCZGZl4edlNx92UkhhmcKImAD1tOIxfXiq-yKWisLuAd8HM-jd_Sv_uEvt2Wnqi9sQxj-BRTX2rqUKgVIW_OZdfRvf98NmdbY05z-nyjAN-gljPOxI_svLI1Sy2AG9KLyg1gri6WapNFHX4VajoRgQRp-RebunTykoTd4xJ9lNc_RjzvfG80XGApoip6ITaaIxevfZDyLBjlBf2DtrjBzk2lIuqA-Mraf25wlJIAcshhDYETtnH9-GmIKys9tBzQZ_egWIGkOD-RGT0lC3eowW8J9AliBDTDozUMaJ19l-PyzQNvBqo2Zas0_aTfOJrP-JMiNrBqlT6Fdq_ps6Thh7rpJcv3_XMxVP0ZFkdtk7KE8Q467zTQj8cEk8bO_qk3-_pZayjXnz-inHRAypOLJD6wMnsOVNDsup7Nw-I3lfdq493rA7NPwwXcnoNem7Gk9733DQP2LBpA1iUqd13f0G-JyflNXAss-OKA5MdEQNGw5fkG4tewtyBB8CjsbDF_yrsqrvKXQx9446j8Ey5Xy8zQNbC3gOcDAYiXaytmxLbMuYnJrTOCYyK51sEvsfx9rnLXOlIRNZYh47rnurFYk0TqblL51svALrU2wULgRGPjjVZglF7UidON50ur-JqzdVM_HSqUyiEHGlzpvgoBcCZKM0Rg2v55OebJ6e5xb2_A=w600-h350-no?authuser=0" sx={{maxWidth: '100%', height: 'auto', zIndex: 100}}/>
           </Box>
           <Box sx={{textAlign: 'center', mt:3}} flex={1}>
             <Box sx={{border: 3, borderColor: '#FF9800', m:3, color: '#FF9800', fontSize: "1rem", fontWeight: 'bold'}}>
@@ -51,7 +52,7 @@ function App() {
             </Box>
           </Box>
           <Box width={"300px"}>
-            <Box component="img" src="/report-stack.png" sx={{maxWidth: '100%', height: 'auto'}}/>
+            <Box component="img" src="https://lh3.googleusercontent.com/umGcLBTRDJJm73pPeDafnbL9uEdXSa5lueVoCzat-8GGQHNu8JRIlOD3egTSPuLkXdWs_ie2_o5xWzyqw2HMEAZ2MfxAYIEGFSyywSh4hEVJbu_CVUW8LqQhbXIcb83nu9_qZQGElA3dLz6ydzsIkdbFTBC_BFDf6XEZiqYfr77SXCkMzZGqwakibCVGpdiKrgwR7ikVecDI2C79LtGhhT2rfvuLORPvdffRudGt1BBMbZe390N5oEMdSUJansiCn4aT1_Gzpg2haTCq_Czwzl2opcp_K6sfqAiXAezwlyavxTQHuf0IOP5jYZ3p1ZfvVs1NbjizFtK2FcIrg3CEhch_bOl2X6cWoDUre-Mu5WNAvuL2js7YPQ99Y0-zwSzxKE3ZMWLtSLMm8uW9MHe3NMzmNXiSPi2j479gK79FtDuN7BSRczVnufvOb5s6gpQu-MdGFM_Ed7I4lU93hjkNkQl8Ly9iyFZgA_rN5bOERGJQSGlebrvUxqIefUKZBPPd0Y7WweaSziYXWbHM32p5hGAIIdg59RqrHABmAxqBF8NG9nfSscHfcYaItCjgQfQcZ0oJctDbmcVOrzKKjBs28oLS4piE-fIkJukh_7qcbUnvIGIoDZdlyIHMZG4m_AqLB9h0eobJ9_qZaAS1FtZlrSs-SNR5bFFdMklbqHynASe3H-6Y-MjHMVR-0XRnak8Q3AqiW-JG771PhLss0MR6r_c379iujg_I9v4abO1l9GLwbEGGngarO86NDRxCmQ=w660-h854-no?authuser=0" sx={{maxWidth: '100%', height: 'auto'}}/>
           </Box>
         </Box>
         <Box position="relative" top={"-50px"} height="50px" sx={{bgcolor: '#FF9800', zIndex: 0}}></Box>
